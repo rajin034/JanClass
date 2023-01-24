@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1199749a-3dbb-4d8e-9c2b-d29af25c3d0e" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/encaptulationExamples/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_databind_2_11_0_wso2v2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JanClassCsit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JanClassCsit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/encaptulationExamples/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encaptulationExamples/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,29 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rajpa/OneDrive/Desktop/JanClassCsit&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/rajpa/OneDrive/Desktop/JanClassCsit",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.humanDriver (3)">
-    <configuration name="MethodsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaClass.javaBasics.MethodsExample" />
-      <module name="JanClassCsit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaClass.javaBasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="humanDriver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.humanDriver" />
+}]]></component>
+  <component name="RunManager" selected="Application.main (4)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.main" />
       <module name="JanClassCsit" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="humanDriver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.humanDriver" />
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.main" />
       <module name="JanClassCsit" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="humanDriver (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.humanDriver" />
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.main" />
       <module name="JanClassCsit" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="humanDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.humanDriver" />
+    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.main" />
+      <module name="JanClassCsit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encaptulationExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encaptulationExamples.main" />
       <module name="JanClassCsit" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.humanDriver (3)" />
-        <item itemvalue="Application.humanDriver (2)" />
-        <item itemvalue="Application.humanDriver (1)" />
-        <item itemvalue="Application.humanDriver" />
-        <item itemvalue="Application.MethodsExample" />
+        <item itemvalue="Application.main (4)" />
+        <item itemvalue="Application.main (3)" />
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
