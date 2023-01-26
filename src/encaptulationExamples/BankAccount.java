@@ -1,8 +1,8 @@
 package encaptulationExamples;
 
 
-import com.fasterxml.jackson.databind.JsonMappingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
+/*import com.fasterxml.jackson.databind.JsonMappingException;
+import com.fasterxml.jackson.databind.ObjectMapper;*/
 
 
 import java.io.File;
@@ -55,10 +55,10 @@ public class BankAccount {
 }
 class main{
     public static void main(String[] args) throws Exception{
-        ObjectMapper mapper = new ObjectMapper();
+        /*ObjectMapper mapper = new ObjectMapper();
         BankAccount account = mapper.readValue(new File("C:\\Users\\rajpa\\OneDrive\\Desktop\\JanClassCsit\\src\\encaptulationExamples\\account.json"), BankAccount.class);
         System.out.println(account.toString());
-        System.out.println(account.getAccountHolder());
+        System.out.println(account.getAccountHolder());*/
 
     }
 }
