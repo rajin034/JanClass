@@ -1,0 +1,185 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1199749a-3dbb-4d8e-9c2b-d29af25c3d0e\" name=\"Changes\" comment=\"inheritance commit\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KVhMz7IbAJRxpQpx6raKkRdUe4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/rajpa/OneDrive/Desktop/JanClassCsit&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.Calculator\">\r\n    <configuration name=\"Calculator\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"compileTimePolymorphism.Calculator\" />\r\n      <module name=\"JanClassCsit\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"compileTimePolymorphism.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"inheritanceExamples.Main\" />\r\n      <module name=\"JanClassCsit\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"inheritanceExamples.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"compileTimePolymorphism.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"compileTimePolymorphism.Main\" />\r\n      <module name=\"JanClassCsit\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"compileTimePolymorphism.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"runtimePolymorphism.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"runtimePolymorphism.Main\" />\r\n      <module name=\"JanClassCsit\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"runtimePolymorphism.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Calculator\" />\r\n        <item itemvalue=\"Application.runtimePolymorphism.Main\" />\r\n        <item itemvalue=\"Application.compileTimePolymorphism.Main\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1199749a-3dbb-4d8e-9c2b-d29af25c3d0e\" name=\"Changes\" comment=\"\" />\r\n      <created>1674065616341</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674065616341</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"inheritance commit\">\r\n      <created>1674162556527</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674162556527</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"inheritance commit\">\r\n      <created>1674162596296</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674162596296</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"inheritance commit\">\r\n      <created>1674166345115</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674166345115</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"inheritance commit\">\r\n      <created>1674168516142</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674168516142</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"inheritance commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"inheritance commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4c373ac0b540dea82574b952de4b298970c3e3fc)
++++ b/.idea/workspace.xml	(date 1674598312154)
+@@ -1,7 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="1199749a-3dbb-4d8e-9c2b-d29af25c3d0e" name="Changes" comment="inheritance commit" />
++    <list default="true" id="1199749a-3dbb-4d8e-9c2b-d29af25c3d0e" name="Changes" comment="Revert &quot;inheritance commit&quot;&#10;&#10;This reverts commit 3b122db3">
++      <change afterPath="$PROJECT_DIR$/src/encaptulationExamples/Student.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/JanClassCsit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JanClassCsit.iml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -15,7 +19,13 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="rajinDevFixed" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -30,10 +40,13 @@
+   &quot;keyToString&quot;: {
+     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rajpa/OneDrive/Desktop/JanClassCsit&quot;
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/rajpa/OneDrive/Desktop/JanClassCsit&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Application.Calculator">
++  <component name="RunManager" selected="Application.MethodsExample">
+     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="compileTimePolymorphism.Calculator" />
+       <module name="JanClassCsit" />
+@@ -53,6 +66,19 @@
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="inheritanceExamples.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="MethodsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.JavaClass.javaBasics.MethodsExample" />
++      <module name="JanClassCsit" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.JavaClass.javaBasics.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -88,6 +114,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.MethodsExample" />
+         <item itemvalue="Application.Calculator" />
+         <item itemvalue="Application.runtimePolymorphism.Main" />
+         <item itemvalue="Application.compileTimePolymorphism.Main" />
+@@ -125,14 +152,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1674166345115</updated>
+     </task>
+-    <task id="LOCAL-00004" summary="inheritance commit">
+-      <created>1674168516142</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1674168516142</updated>
+-    </task>
+-    <option name="localTasksCounter" value="5" />
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -140,7 +160,19 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/rajinDevFixed" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>
+@@ -148,6 +180,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="inheritance commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="inheritance commit" />
++    <MESSAGE value="Revert &quot;inheritance commit&quot;&#10;&#10;This reverts commit 4c373ac0" />
++    <MESSAGE value="Revert &quot;inheritance commit&quot;&#10;&#10;This reverts commit eec554e0" />
++    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;inheritance commit&quot;&#10;&#10;This reverts commit eec554e0" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: JanClassCsit.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/JanClassCsit.iml b/JanClassCsit.iml
+--- a/JanClassCsit.iml	(revision 4c373ac0b540dea82574b952de4b298970c3e3fc)
++++ b/JanClassCsit.iml	(date 1674172309466)
+@@ -5,7 +5,7 @@
+     <content url="file://$MODULE_DIR$">
+       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+     </content>
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="18" jdkType="JavaSDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: src/encaptulationExamples/Student.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/encaptulationExamples/Student.java b/src/encaptulationExamples/Student.java
+new file mode 100644
+--- /dev/null	(date 1674173814968)
++++ b/src/encaptulationExamples/Student.java	(date 1674173814968)
+@@ -0,0 +1,25 @@
++package encaptulationExamples;
++
++public class Student {
++    private String name;
++    private int age;
++    private int[] grades;
++  
++    public Student(String name, int age, int[] grades) {
++        this.name = name;
++        this.age = age;
++        this.grades = grades;
++    }
++  
++    public String getName() {
++        return name;
++    }
++  
++    public int getAge() {
++        return age;
++    }
++  
++    public int getGrade(int index) {
++        return grades[index];
++    }
++}
+\ No newline at end of file

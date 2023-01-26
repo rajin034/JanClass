@@ -56,7 +56,7 @@ public class BankAccount {
 class main{
     public static void main(String[] args) throws Exception{
         ObjectMapper mapper = new ObjectMapper();
-        BankAccount account = mapper.readValue(new File("/Users/rajinpanthee/Desktop/JanClass/src/encaptulationExamples/account.json"), BankAccount.class);
+        BankAccount account = mapper.readValue(new File("C:\\Users\\rajpa\\OneDrive\\Desktop\\JanClassCsit\\src\\encaptulationExamples\\account.json"), BankAccount.class);
         System.out.println(account.toString());
         System.out.println(account.getAccountHolder());
 
