@@ -2,6 +2,8 @@ package wrapperClass;
 
 public class PrimitiveRange {
     public static void main(String[] args) {
+        Integer x= 10;
+        System.out.println(x);
         System.out.println("Byte range: " + Byte.MIN_VALUE + " to " + Byte.MAX_VALUE);
         System.out.println("Short range: " + Short.MIN_VALUE + " to " + Short.MAX_VALUE);
         System.out.println("Integer range: " + Integer.MIN_VALUE + " to " + Integer.MAX_VALUE);
