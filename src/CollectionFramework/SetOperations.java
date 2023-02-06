@@ -29,5 +29,15 @@ public class SetOperations {
         Set<Integer> difference = new HashSet<>(set1);
         difference.removeAll(set2);
         System.out.println("Difference: " + difference);
+
+        char ch = 'a';
+        char ch1 = 'b';
+        char ch2 = '1';
+        int uc = ch;
+        int uc1 = ch1;
+        int uc2 = ch2;
+
+        System.out.println(uc);
+        System.out.println(uc1);
     }
 }

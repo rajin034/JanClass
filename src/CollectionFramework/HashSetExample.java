@@ -1,6 +1,8 @@
 package CollectionFramework;
 
+import java.util.Arrays;
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class HashSetExample {
    public static void main(String[] args) {
@@ -17,6 +19,20 @@ public class HashSetExample {
       set.add("John");
       set.add("Jane");
       set.add("Jim");
+      set.add("jonny");
+
+      // iterator to loop through element of set
+      System.out.println("Original HashSet: " + set);
+
+      // Iterating over a HashSet using iterator
+      Iterator<String> it = set.iterator();
+      while (it.hasNext()) {
+         System.out.println(it.next());
+      }
+
+      // to array method inhashset
+      String[] arr = set.toArray(new String[0]);
+      System.out.println("Array: " + Arrays.toString(arr));
 
       // check if an element is present in the HashSet
       System.out.println("Jim is present in the set: " + set.contains("Jim"));
