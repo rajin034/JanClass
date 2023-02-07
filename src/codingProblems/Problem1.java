@@ -3,6 +3,8 @@ package codingProblems;
 import java.util.Arrays;
 
 public class Problem1 {
+    public Problem1() {
+    }
 
     int a;
     public int[] twoSum(int[] nums, int target) {
