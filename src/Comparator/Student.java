@@ -23,10 +23,7 @@ class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
-                "rollNo=" + rollNo +
-                ", name='" + name + '\'' +
-                '}';
+        return "Student{" + "rollNo=" + rollNo + ", name='" + name + '\'' + '}';
     }
 }
 
@@ -37,13 +34,13 @@ class NameComparator implements Comparator<Student> {
     }
 }
 
-class RollNoComparator implements Comparator<Student>{
+class RollNoComparator implements Comparator<Student> {
 
     @Override
     public int compare(Student o1, Student o2) {
-        if(o1.getRollNo()>o2.getRollNo()){
+        if (o1.getRollNo() > o2.getRollNo()) {
             return 1;
-        }else{
+        } else {
             return -1;
         }
     }
@@ -52,28 +49,21 @@ class RollNoComparator implements Comparator<Student>{
 class Main {
     public static void main(String[] args) {
 
-        Student student1 = new Student(1, "john");
+        Student student1 = new Student(10, "john");
         Student student2 = new Student(2, "ane");
+        Student student3 = new Student(20, "jane");
         ArrayList<Student> aList = new ArrayList<Student>();
         aList.add(student1);
         aList.add(student2);
+        aList.add(student3);
         System.out.println(aList);
         NameComparator comparator = new NameComparator();
+        RollNoComparator rc = new RollNoComparator();
         Collections.sort(aList, comparator);
         System.out.println(aList);
 
-        System.out.println(comparator.compare(student1, student2)); // Output: -1
-        System.out.println(comparator.compare(student2, student1)); // Output: 1
-        System.out.println(comparator.compare(student1, student1)); // Output: 0
-
-
-
-
-
-
-
-
-
+        Collections.sort(aList, rc);
+        System.out.println(aList);
 
 
     }
