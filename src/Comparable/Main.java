@@ -25,16 +25,13 @@ public class Main {
         Collections.sort(str);
         System.out.println(str);
 
-        Laptop l1 = new Laptop("apple", 8,1000.0);
-        Laptop l2 = new Laptop("apple", 12,1200.0);
-        Laptop l3 = new Laptop("apple", 16,1500.0);
-        Laptop l4 = new Laptop("apple", 4,700.0);
+
 
         List<Laptop> laptop = new ArrayList<>();
         laptop.add(new Laptop("apple", 8,1000.0));
-        laptop.add(new Laptop("apple", 12,1200.0));
-        laptop.add(new Laptop("apple", 16,1500.0));
-        laptop.add(new Laptop("apple", 4,700.0));
+        laptop.add(new Laptop("Dell", 12,1200.0));
+        laptop.add(new Laptop("microsoft", 16,1500.0));
+        laptop.add(new Laptop("Hp", 4,700.0));
 
         Collections.sort(laptop);
         System.out.println(laptop);

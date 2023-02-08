@@ -3,28 +3,28 @@ package Comparator;
 import java.util.Comparator;
 
 public class CarMain {
-    Comparator<Car> com = new Comparator<Car>(){
+    static Comparator<Car> com = new Comparator<Car>(){
         public int compare(Car car1, Car car2){
             return car1.getBrand().compareTo(car2.getBrand());
 
 
         }
     };
-    Comparator<Car> com1 = new Comparator<Car>(){
+    static Comparator<Car> com1 = new Comparator<Car>(){
         public int compare(Car car1, Car car2){
             return car1.getColor().compareTo(car2.getColor());
 
 
         }
     };
-    Comparator<Car> com2 = new Comparator<Car>(){
+    static Comparator<Car> com2 = new Comparator<Car>(){
         public int compare(Car car1, Car car2){
             return car1.getColor().compareTo(car2.getColor());
 
 
         }
     };
-    Comparator<Car> com3 = new Comparator<Car>(){
+    static Comparator<Car> com3 = new Comparator<Car>(){
         public int compare(Car car1, Car car2){
             if(car1.getPrice() > car2.getPrice()){
                 return 1;
