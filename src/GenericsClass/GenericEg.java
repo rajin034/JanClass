@@ -1,5 +1,6 @@
 package GenericsClass;
 
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 
 public class GenericEg {
@@ -12,8 +13,10 @@ public class GenericEg {
         a.add(200.2);
         a.add(cc);
 
+        System.out.println(a.toString());
+
         String str = (String) a.get(0);
-        int a1 = (int) a.get(0);
+        int a1 = (int) a.get(1);
 
         Class1 cc1 = (Class1) a.get(3);
 
