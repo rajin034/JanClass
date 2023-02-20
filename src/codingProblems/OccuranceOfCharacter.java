@@ -6,7 +6,7 @@ public class OccuranceOfCharacter
 {
     public void countOccurance(String inputString)
     {
-        // HashMap char as a key and occurrence as a value
+/*        // HashMap char as a key and occurrence as a value
         HashMap<Character, Integer> charCountMap = new HashMap<Character, Integer>();
 
         // Convert String to Char Array
@@ -28,7 +28,8 @@ public class OccuranceOfCharacter
         }
 		
         // Print CharCount Map
-        System.out.println(charCountMap.entrySet());
+        System.out.println(charCountMap.entrySet());*/
+
     }
 
     public static void main(String args[])
